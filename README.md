@@ -1,4 +1,7 @@
 # csv2xml4Alma
+### Auteur : outils numériques
+
+## Description
 
 Le script Python (3.7) csv2xml est utilisable dans le cadre du projet GED du Campus Condorcet pour convertir en XML un fichier CSV contenant des informations en provenance du référentiel d'identité du Cammus Condorcet et relatives aux utilisateurs de la bibliothèque. 
 
